@@ -3,6 +3,6 @@ CREATE TABLE tbl_Products(serialNumber VARCHAR(10), name VARCHAR(50), descriptio
 select * from tbl_Products;
 
 
-18.220.231.8
-root
-M@pirisoft062012
+18.220.231.8  
+root  
+M@pirisoft062012   
