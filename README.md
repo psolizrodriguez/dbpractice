@@ -6,3 +6,7 @@ select * from tbl_Products;
 18.220.231.8  
 root  
 M@pirisoft062012   
+
+select * from tbl_Products;  
+alter table tbl_Products add primary key(serialNumber);  
+insert into tbl_Products values ('A01', 'FitBit2', 'another tracker', 175);
